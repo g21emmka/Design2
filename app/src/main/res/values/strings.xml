@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">JobbaPå AB</string>
+
+    <string name="shortinfo_work">
+        \n - Omfattning: Deltid
+        \n - Timmar per vecka: 5h
+        \n - Varaktighet: 1 månad
+        \n - Anställningsform: Tidsbegränsad anställning
+    </string>
+
+    <string name="demands_text">
+        \n * Förkunskaps krav: Arbetat inom någon form av serviceyrke
+        \n * Utrustnings krav: Inga utrustnings krav krävs
+        \n
+        \n * Meriterande: Arbetat inom event tidigare, B-körkort
+    </string>
+
+    <string name="about_work">
+       \n Som eventpersonal hos oss så kommer du att få arbeta på en mässa som
+        \n sträcker sigöver en månad. Eventet pågår varje lördag under juli månad
+        \n på olika platser runt om i Stockholm, därför är det meriterande om du
+        \n har B-körtkort. Det går dock att ta sig till platserna kommunalt också. \n
+        \n Du kommer få hjälpa till med att hjälpa de som närvarar på eventet med
+        \n diverse olika saker men främsta arbetsuppgiften är att förse gästerna med
+        \n information kring mässan och vart olika bås finns.\n
+        \n Vi söker dig som är uttråriktad som person med en positiv inställning
+        \n och ett stort leende på läpparna.Du vill hjälpa folk på bästa sätt och
+        \n gör det där lilla extra för att se till så att gästerna har det bra.
+        \n Är du den vi söker? Fyll då in en ansökan direkt, intevjuer sker löpande.\n
+
+
+    </string>
+
+    <string name="about_company">
+        \n - Anställningsvillkor: Deltid, anställning enligt övernekommelse
+        \n - Lön: Timlön, enligt överenkommelse
+        \n - Plats: Stockholm
+        \n - Arbetsgivare: EventProffsenDeluxe AB
+        \n - Bransch: Event
+        \n - Kontakt: Eva, 079-000 00 00
+        \n - Publiceringsdatum: 2022-05-20
+    </string>
+</resources>
